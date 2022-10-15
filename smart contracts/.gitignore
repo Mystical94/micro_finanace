@@ -1,0 +1,7 @@
+.secret
+/node_modules/
+/build
+bridge.log
+package-lock.json
+yarn.lock
+.env
